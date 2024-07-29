@@ -20,6 +20,7 @@ body {
 .container div.six {
   top: 10vh;
   z-index: 1;
+  height: 100vh;
 }
 
 .container div.seven,
@@ -114,6 +115,7 @@ body {
 
 .six {
   position: relative;
+  height: auto;
 }
 
 .six img {
